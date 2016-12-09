@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+body{
+width:auto;
+height:auto;
+background:url(Background-Image-6H6-2.jpg);
+background-position:center;
+background-size:cover;
+background-repeat:no-repeat;
+}
+
+.form{
+	margin-top:500px;
+	margin-bottom:500px;
+	margin-left:500px;
+	margin-right:500px;
+	position:center;
+}
+
+.account-info{
+	width:200px;
+	height:100px;
+	background-color:#ff0000;
+	border:0;
+	margin:auto;
+	padding:16px;
+	color:#ffffff;
+}
+
+.account-action{
+	width:200px;
+	height:100px;
+	background-color:#ff8000;
+	border:0;
+	margin:auto;
+	padding:16px;
+	color:#ffffff;
+	text-align:center;
+	}
+	
+	
